@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgb(9, 4, 78);
+}
+
+button {
+ 
+  margin: 20px 20px;
+  padding: 4px 8px;
+  font-size: medium;
+  background: rgb(39, 170, 6);
+  color: white;
+  border-radius: 20px;
+  align-items: center;
+}
+
+h1 {
+  margin: 15px;
+  color: aliceblue;
+}
+
+#joke {
+  
+  display: inline-block;
+  padding: 10px;
+  background-color: #074383;
+  margin: 20px 20px;
+  padding: 20px 20px;
+  /* border: 2px solid #007bff; */
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 3px 3px 5px #000;
+}
